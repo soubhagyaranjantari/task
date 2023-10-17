@@ -1,0 +1,63 @@
+.header {
+    /* border: 2px solid red; */
+}
+
+.header {
+    margin-left: 230px;
+    margin-right: 30px;
+    padding: 1px 16px;
+
+}
+.last{
+    font-weight: bold;
+    font-size:80%;
+}
+.dolar{
+    /* border: 2px solid red; */
+}
+.earn{
+    /* border: 2px solid blue; */
+}
+.arrow{
+    color: #14b15d;
+    font-weight: bolder !important;
+}
+.text-danger{
+    font-weight: bolder !important;
+}
+.b{
+    line-height: 1.6 !important;
+    font-weight: 600;
+    font-size: 180%;
+}
+.img{
+    width: 8vw;
+    overflow: hidden;
+    border-radius: 50%;
+}
+@media screen and (max-width: 700px) {
+    div.header {
+        margin-left: 0;
+    }
+}
+
+.second-content {
+    /* border: 2px solid rgb(5, 62, 250); */
+    border-radius: 3.5%;
+    width: 95% !important;
+    height: 21.6vh !important;
+    background-color: rgba(255, 255, 255, 255);
+}
+
+input {
+    width: 100%;
+}
+.css-hip9hq-MuiPaper-root-MuiAppBar-root{
+    background-color: rgb(248, 246, 246) !important;
+}
+.css-1wwl0f6-MuiInputBase-root{
+    color:black !important
+}
+.color{
+    color: gray !important;
+}

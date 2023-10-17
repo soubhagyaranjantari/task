@@ -1,0 +1,43 @@
+.main-chat{
+    height: 49vh;
+    /* border: 2px solid black; */
+    background-color: white;
+}
+.middle{
+    margin-left: 235px !important;
+    /* background-color: red; */
+}
+.main-text{
+    background-color: white;
+    width: 53.85vw;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.chat{
+    width: 40px;
+    background-color: red;
+    
+}
+.pichart{
+    /* height: ; */
+    margin-top: 1.5rem !important;
+    height: 90% !important;
+}
+.aug{
+    height: 13.5vh;
+    width: 40px;
+    background-color: black;
+
+}
+@media screen and (max-width: 700px) {
+   .middle{
+    margin-left: 0px !important;
+   }
+}
+
+@media screen and (max-width: 400px) {
+    .middle{
+        float: left !important;
+    }
+}
